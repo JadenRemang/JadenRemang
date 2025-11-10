@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, welcome!
+
+
+Hi, my name is Jaden, and I'm currently a Bachelor of Computer Science student at RMIT minoring in AI/ML & ESD (Enterprise Systems Development)
 
 <!--
 **JadenRemang/JadenRemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
